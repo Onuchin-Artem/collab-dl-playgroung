@@ -1,1 +1,1 @@
-# collab-dl-playgroung
+# Google Collab Deep Learning Playground
